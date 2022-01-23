@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Bookstore.
+# Portfolio.
 
-> BookStore app.
+> Portfolio.
 
 ![screenshot](./images/setup.png)
 
