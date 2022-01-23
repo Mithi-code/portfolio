@@ -23,8 +23,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 - You should have basic knowledge of HTML
 - You should have basic knowledge of CSS
-- You should have basic knowledge of React
-- You should have basic knowledge of webpack
 - Also, a basic knowledge of git and github
 - A code editor: I used VScode for this project but you can use any code editor of your choice
 ### Setup
