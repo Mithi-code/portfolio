@@ -2,8 +2,6 @@
 
 # Portfolio.
 
-> Portfolio.
-
 ![screenshot](./images/setup.png)
 
 ## Built With
