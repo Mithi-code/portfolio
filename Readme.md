@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Portfolio.
 
 ![screenshot](./images/setup.png)
@@ -11,8 +9,8 @@
 - JavaScript
 - Git and GitHub
 
-## Deploy Link
-
+## Live Link
+ -  https://mithi-code.github.io/portfolio/
 
 ## Getting Started
 
