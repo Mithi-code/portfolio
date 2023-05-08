@@ -9,9 +9,6 @@
 - JavaScript
 - Git and GitHub
 
-## Live Link
- -  https://mithi-code.github.io/portfolio/
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
